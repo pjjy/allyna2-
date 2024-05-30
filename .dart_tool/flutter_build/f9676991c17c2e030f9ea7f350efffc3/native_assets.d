@@ -1,0 +1,1 @@
+ C:\\Users\\pj\\Documents\\Flutter\ Bisu\ Students\\Allyna-App\\.dart_tool\\flutter_build\\f9676991c17c2e030f9ea7f350efffc3\\native_assets.yaml: 
